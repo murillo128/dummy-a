@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/murillo128/dummy-a/issues"
   },
-  "homepage": "https://github.com/murillo128/dummy-a"
+  "homepage": "https://github.com/murillo128/dummy-a",
+  "dependencies": {
+    "dummy-b": "^1.0.0",
+    "dummy-c": "git://github.com/murillo128/dummy-c#branch"
+  }
 }
